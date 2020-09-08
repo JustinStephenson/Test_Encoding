@@ -1,0 +1,4 @@
+./fileUTF-16BE.sql: text/plain; charset=utf-16be
+./fileUTF-16LE.sql: text/plain; charset=utf-16le
+./fileUTF1.sql:     text/plain; charset=us-ascii
+./fileUTF2.sql:     text/plain; charset=us-ascii
